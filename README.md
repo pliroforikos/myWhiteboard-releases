@@ -1,22 +1,22 @@
 # myWhiteboard — Επίσημες Εκδόσεις & Τεκμηρίωση 🖊️📐
 
-[![Έκδοση](https://img.shields.io/badge/Έκδοση-v1.1.2-blue.svg)](https://github.com/pliroforikos/myWhiteboard-releases/releases/latest)
+[![Έκδοση](https://img.shields.io/badge/Έκδοση-v1.1.3-blue.svg)](https://github.com/pliroforikos/myWhiteboard-releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Πλατφόρμα-Windows%2010%20%2F%2011-0078d7.svg)](https://github.com/pliroforikos/myWhiteboard-releases/releases/latest)
-[![Άδεια](https://img.shields.io/badge/Άδεια-MIT-green.svg)](LICENSE)
+[![Άδεια](https://img.shields.io/badge/Άδεια-Freeware-green.svg)](LICENSE)
 [![Δημιουργός](https://img.shields.io/badge/Δημιουργός-Λέων%20Προκόπης-orange.svg)](https://plarg.gr)
 
 Το **myWhiteboard** είναι μια σύγχρονη, ταχύτατη και αυτόνομη εφαρμογή **Ψηφιακού Πίνακα (Whiteboard)** και **Σχολιασμού Επιφάνειας Εργασίας (Desktop Annotation)**, εμπνευσμένη από τα εργαλεία του OpenBoard. Είναι ειδικά σχεδιασμένη για εκπαιδευτικούς, μαθητές και επαγγελματίες, με πλήρη υποστήριξη μαθημάτων **Πληροφορικής (ΑΕΠΠ, ΓΛΩΣΣΑ, Python, Αντικειμενοστραφής Προγραμματισμός)** και Θετικών Επιστημών.
 
 ---
 
-## 🚀 Άμεση Λήψη (Downloads - Έκδοση 1.1.2)
+## 🚀 Άμεση Λήψη (Downloads - Έκδοση 1.1.3)
 
 Μπορείτε να κατεβάσετε άμεσα την εφαρμογή και το επίσημο εγχειρίδιο χρήστη:
 
 | Πακέτο | Τύπος | Περιγραφή | Σύνδεσμος Λήψης |
 | :--- | :--- | :--- | :--- |
-| 🚀 **myWhiteboard Portable** | `.exe` (~98 MB) | **Φορητή έκδοση χωρίς εγκατάσταση.** Τρέχει άμεσα από οποιονδήποτε φάκελο ή USB stick χωρίς δικαιώματα διαχειριστή. | [**Λήψη Portable (v1.1.2)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.1.2/myWhiteboard-Portable-1.1.2.exe) |
-| 📦 **myWhiteboard Setup** | `.exe` (~99 MB) | **Πρόγραμμα εγκατάστασης Windows NSIS.** Δημιουργεί συντομεύσεις στην Επιφάνεια Εργασίας και στο μενού Έναρξη και διαθέτει uninstaller. | [**Λήψη Setup Installer (v1.1.2)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.1.2/myWhiteboard-Setup-1.1.2.exe) |
+| 🚀 **myWhiteboard Portable** | `.exe` (~98 MB) | **Φορητή έκδοση χωρίς εγκατάσταση.** Τρέχει άμεσα από οποιονδήποτε φάκελο ή USB stick χωρίς δικαιώματα διαχειριστή. | [**Λήψη Portable (v1.1.3)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.1.3/myWhiteboard-Portable-1.1.3.exe) |
+| 📦 **myWhiteboard Setup** | `.exe` (~99 MB) | **Πρόγραμμα εγκατάστασης Windows NSIS.** Δημιουργεί συντομεύσεις στην Επιφάνεια Εργασίας και στο μενού Έναρξη και διαθέτει uninstaller. | [**Λήψη Setup Installer (v1.1.3)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.1.3/myWhiteboard-Setup-1.1.3.exe) |
 | 📕 **Εγχειρίδιο Χρήστη PDF** | `.pdf` (~1.9 MB) | **Πλήρες αναλυτικό εγχειρίδιο χρήστη 11 ενοτήτων σε μορφή A4**, έτοιμο για ανάγνωση και εκτύπωση. | [**Προβολή / Λήψη MANUAL.pdf**](./docs/MANUAL.pdf) |
 
 > [!TIP]
@@ -115,4 +115,7 @@
 
 ## 📄 Άδεια Χρήσης
 
-Το έργο διατίθεται υπό την άδεια ελεύθερου λογισμικού **MIT License**. Επιτρέπεται ελεύθερα η χρήση, μελέτη και αξιοποίηση για εκπαιδευτικούς και επαγγελματικούς σκοπούς.
+### myWhiteboard · Άδεια χρήσης
+© 2026 Λέων Προκόπης. Όλα τα δικαιώματα διατηρούνται.
+
+Επιτρέπεται η δωρεάν χρήση της εφαρμογής για προσωπικούς και εκπαιδευτικούς σκοπούς. Δεν επιτρέπεται η τροποποίηση, η αποσυμπίληση ή αντίστροφη μηχανική, η πώληση ή η χρήση για εμπορικό κέρδος. Ο πηγαίος κώδικας δεν διατίθεται. Η εφαρμογή παρέχεται «ως έχει», χωρίς καμία εγγύηση.
