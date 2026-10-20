@@ -1,0 +1,6 @@
+myWhiteboard
+============
+Ο πηγαίος κώδικας της εφαρμογής myWhiteboard είναι ιδιωτικός (proprietary) και δεν διατίθεται δημόσια, σύμφωνα με τους όρους της άδειας χρήσης.
+
+Για τη λήψη των επίσημων εκτελέσιμων αρχείων της εφαρμογής (Portable & Setup) και του εγχειριδίου χρήστη (MANUAL.pdf), επισκεφθείτε:
+https://github.com/pliroforikos/myWhiteboard-releases/releases
