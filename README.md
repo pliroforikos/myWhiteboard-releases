@@ -1,6 +1,6 @@
 # myWhiteboard — Επίσημες Εκδόσεις & Τεκμηρίωση 🖊️📐
 
-[![Έκδοση](https://img.shields.io/badge/Έκδοση-v1.1.3-blue.svg)](https://github.com/pliroforikos/myWhiteboard-releases/releases/latest)
+[![Έκδοση](https://img.shields.io/badge/Έκδοση-v1.2.2-blue.svg)](https://github.com/pliroforikos/myWhiteboard-releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Πλατφόρμα-Windows%2010%20%2F%2011-0078d7.svg)](https://github.com/pliroforikos/myWhiteboard-releases/releases/latest)
 [![Άδεια](https://img.shields.io/badge/Άδεια-Freeware-green.svg)](LICENSE)
 [![Δημιουργός](https://img.shields.io/badge/Δημιουργός-Λέων%20Προκόπης-orange.svg)](https://plarg.gr)
@@ -9,15 +9,15 @@
 
 ---
 
-## 🚀 Άμεση Λήψη (Downloads - Έκδοση 1.1.3)
+## 🚀 Άμεση Λήψη (Downloads - Έκδοση 1.2.2)
 
 Μπορείτε να κατεβάσετε άμεσα την εφαρμογή και το επίσημο εγχειρίδιο χρήστη:
 
 | Πακέτο | Τύπος | Περιγραφή | Σύνδεσμος Λήψης |
 | :--- | :--- | :--- | :--- |
-| 🚀 **myWhiteboard Portable** | `.exe` (~98 MB) | **Φορητή έκδοση χωρίς εγκατάσταση.** Τρέχει άμεσα από οποιονδήποτε φάκελο ή USB stick χωρίς δικαιώματα διαχειριστή. | [**Λήψη Portable (v1.1.3)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.1.3/myWhiteboard-Portable-1.1.3.exe) |
-| 📦 **myWhiteboard Setup** | `.exe` (~99 MB) | **Πρόγραμμα εγκατάστασης Windows NSIS.** Δημιουργεί συντομεύσεις στην Επιφάνεια Εργασίας και στο μενού Έναρξη και διαθέτει uninstaller. | [**Λήψη Setup Installer (v1.1.3)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.1.3/myWhiteboard-Setup-1.1.3.exe) |
-| 📕 **Εγχειρίδιο Χρήστη PDF** | `.pdf` (~1.9 MB) | **Πλήρες αναλυτικό εγχειρίδιο χρήστη 11 ενοτήτων σε μορφή A4**, έτοιμο για ανάγνωση και εκτύπωση. | [**Προβολή / Λήψη MANUAL.pdf**](./docs/MANUAL.pdf) |
+| 🚀 **myWhiteboard Portable** | `.exe` (~107 MB) | **Φορητή έκδοση χωρίς εγκατάσταση.** Τρέχει άμεσα από οποιονδήποτε φάκελο ή USB stick χωρίς δικαιώματα διαχειριστή. | [**Λήψη Portable (v1.2.2)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.2.2/myWhiteboard-Portable-1.2.2.exe) |
+| 📦 **myWhiteboard Setup** | `.exe` (~107 MB) | **Πρόγραμμα εγκατάστασης Windows NSIS.** Δημιουργεί συντομεύσεις στην Επιφάνεια Εργασίας και στο μενού Έναρξη και διαθέτει uninstaller. | [**Λήψη Setup Installer (v1.2.2)**](https://github.com/pliroforikos/myWhiteboard-releases/releases/download/v1.2.2/myWhiteboard-Setup-1.2.2.exe) |
+| 📕 **Εγχειρίδιο Χρήστη PDF** | `.pdf` (~2.0 MB) | **Πλήρες αναλυτικό εγχειρίδιο χρήστη 11 ενοτήτων σε μορφή A4**, έτοιμο για ανάγνωση και εκτύπωση. | [**Προβολή / Λήψη MANUAL.pdf**](./docs/MANUAL.pdf) |
 
 > [!TIP]
 > Όλες οι προηγούμενες και νεότερες εκδόσεις βρίσκονται συγκεντρωμένες στη σελίδα **[GitHub Releases](https://github.com/pliroforikos/myWhiteboard-releases/releases)**.
@@ -92,6 +92,7 @@
 | `G` | Δομές Δεδομένων & Πίνακες (Grid / Data Structures) |
 | `C` | Αντικειμενοστραφής Προγραμματισμός (OOP Suite) |
 | `O` | Εναλλαγή Προσανατολισμού Παλέτας (Κάθετη ⇄ Οριζόντια) |
+| `Shift + O` ή `F7` | **Αλλαγή Μεγέθους Εργαλειοθήκης (S, M, L, XL)** |
 | `D` | Εναλλαγή Φόντου: Επιφάνεια Εργασίας ⇄ Λευκός Πίνακας |
 | `I` | Παράθυρο Πληροφοριών & Στοιχείων Δημιουργού |
 | `Ctrl + Z` / `Ctrl + Y` | Αναίρεση (Undo) / Επανάληψη (Redo) |
