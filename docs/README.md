@@ -37,7 +37,7 @@
    - Αυξομείωση μεγέθους 5 επιπέδων (`A−` / `A+`) σε όλες τις δομές.
 
 6. [**⚙️ Οδηγός Δημιουργίας Εκτελέσιμων & Portable (PORTABLE_BUILD.md)**](./PORTABLE_BUILD.md)
-   - Βήματα δημιουργίας των αυτόνομων αρχείων `myWhiteboard-Portable-1.2.2.exe` και `myWhiteboard-Setup-1.2.2.exe` με `electron-builder`.
+   - Βήματα δημιουργίας των αυτόνομων αρχείων `myWhiteboard-Portable-1.2.3.exe` και `myWhiteboard-Setup-1.2.3.exe` με `electron-builder`.
    - Εκτέλεση από USB stick ή τοπικό φάκελο σε οποιοδήποτε υπολογιστή χωρίς δικαιώματα διαχειριστή.
 
 7. [**📑 Συνοδευτικά Αρχεία Μαθήματος**](./)
