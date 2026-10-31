@@ -1,5 +1,5 @@
 # myWhiteboard 🖊️📐
-**Έκδοση:** 1.6.0 &bull; **Δημιουργός:** [Λέων Προκόπης (plarg.gr)](https://plarg.gr) &bull; [📘 Αναλυτικό Εγχειρίδιο Χρήστη (MANUAL.md)](./docs/MANUAL.md)
+**Έκδοση:** 1.6.1 &bull; **Δημιουργός:** [Λέων Προκόπης (plarg.gr)](https://plarg.gr) &bull; [📘 Αναλυτικό Εγχειρίδιο Χρήστη (MANUAL.md)](./docs/MANUAL.md)
 
 Μια σύγχρονη, ελαφριά και πανίσχυρη εφαρμογή **Whiteboard** και **Desktop Annotation** εμπνευσμένη από τα εργαλεία του **OpenBoard**, με πλήρη υποστήριξη για **Windows** και **Linux**, γραμματοσειρά **Google Roboto** και πλήρη υποστήριξη ελληνικών χαρακτήρων.
 
@@ -386,8 +386,8 @@ npm run build:all
 ```
 
 Τα παραγόμενα αρχεία αποθηκεύονται στον φάκελο `dist/`:
-- `dist/myWhiteboard-Portable-1.6.0.exe` (Αυτόνομο φορητό εκτελέσιμο)
-- `dist/myWhiteboard-Setup-1.6.0.exe` (Πρόγραμμα εγκατάστασης Windows NSIS)
+- `dist/myWhiteboard-Portable-1.6.1.exe` (Αυτόνομο φορητό εκτελέσιμο)
+- `dist/myWhiteboard-Setup-1.6.1.exe` (Πρόγραμμα εγκατάστασης Windows NSIS)
 
 ---
 
